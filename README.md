@@ -24,6 +24,9 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
  -   Skills Developed: `Problem-solving` and `code debugging` using Chrome DevTools and Visual Studio Code
  -   Link to the project: Crush Club Wines: https://github.com/JessicaRodriguesFelix/wine-lovers-UI
 ### Back-end Project
+ -   Developed a back-end application using **Java Spring Boot**, demonstrating capability to create endpoints for performing CRUD operations. 
+ -   Skills Developed: `Problem-solving`, data schema and endpoint `design and evaluation`, `testing` Postman, and `code debugging` with the IntelliJ debugger.
+ -   Link to the project: Crush Club Wines: https://github.com/JessicaRodriguesFelix/wine-lovers-UI
 ### Hackathon Project
 ### Deployment Project
 
