@@ -44,3 +44,7 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
 I'd like to express my sincere gratitude to *Cisco Systems* for the opportunity to work on a real-world project in their engineering team.
 
 A special thank you to my coach, *David Todd*, for your exceptional guidance and support throughout this journey. I hope he continues to guide engineers in advancing their careers.
+
+![72CB97CC-F401-4C4E-BD57-F743A785](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/assets/40796998/38eb6d9e-ce2d-457d-a3b3-22ebc407bf42)
+
+
