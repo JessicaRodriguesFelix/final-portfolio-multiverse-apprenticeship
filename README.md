@@ -11,7 +11,7 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
 - Joined Cisco Systems in September 2022 as part of the first cohort for the **RISE (Recognizing Inclusive Success and Excellence)** Apprenticeship Program.
 - I transitioned to an Agile team within the **Common Services** as part of their engineering team, working on the **Object Service** project.
 
-## Project and Team I've Collaborated 🤝
+## On-the-Job Project and Team I've Collaborated With 🤝
 - The **Object Service project** provides a unified object repository for efficient object creation and editing across multiple **Cisco solutions**, ensuring future policy sharing.
 - Gained hands-on experience with front-end and back-end tasks:
   - Front-End: Developed reusable Figma-based components. **React, TypeScript, Jest** for unit testing, and **GitHub Actions** for **CI/CD**.
