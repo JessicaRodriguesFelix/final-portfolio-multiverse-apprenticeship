@@ -20,14 +20,17 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
 
 ## Bootcamp Projects
 ### Front-end Project
- -   Developed a front-end application using **TypeScript** and **React**, demonstrating ability to build components and develop user interfaces. 
+ -   Front-end project folder will include Crush Club - Wine Lovers application using **TypeScript** and **React**, demonstrating ability to build components and develop user interfaces. 
  -   **Skills Developed**: `Problem-solving` and `code debugging` using Chrome DevTools and Visual Studio Code
  -   **Link to the project**: Crush Club Wines: https://github.com/JessicaRodriguesFelix/wine-lovers-UI
 ### Back-end Project
- -   Developed a back-end application using **Java Spring Boot**, demonstrating ability to create endpoints for performing CRUD operations. 
+ -   Back-end project folder will include "Crush Club - Wine Lovers" application using **Java Spring Boot**, demonstrating ability to create endpoints for performing CRUD operations. 
  -   **Skills Developed**: `Problem-solving`, data schema and endpoint `design and evaluation`, `testing` Postman, and `code debugging` with the IntelliJ debugger.
  -   **Link to the project**: Crush Club Wines: https://github.com/JessicaRodriguesFelix/wine-lovers
 ### Hackathon Project
+- Hackaton project folder will contain 'Coplay', a full-stack project designed as an introduction to the 'Golang' programming language.
+- **Skills Developed**: `Problem-solving`,`time management`, `task planning`, `documentation`, `testing` Postman, and `code debugging` with the Visual Studio Code.
+- **Link to the project**: Coplay: https://github.com/JessicaRodriguesFelix/rest-api-golang-postgres
 ### Deployment Project
 
 
