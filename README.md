@@ -34,7 +34,7 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
 ### Hackathon Project
  -  Hackaton project folder will contain "Coplay", a full-stack project designed as an introduction to the 'Golang' programming language.
  -  **Skills Developed**: `Problem-solving`,`time management`, `task planning`, `documentation`, `testing` Postman, and `code debugging` with the Visual Studio Code.
- -  **Link to the project**: [Coplay](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/tree/main/hackaton-project){:target="_blank"}
+ -  **Link to the project**: [Coplay](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/tree/main/hackaton-project)<!-- _target="blank" -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact me
