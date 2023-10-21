@@ -22,7 +22,7 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
 ### Front-end Project
  -   Front-end project folder will include "Crush Club - Wine Lovers UI" application using **TypeScript** and **React**, demonstrating ability to build components and develop user interfaces. 
  -   **Skills Developed**: `Problem-solving`, `API integration`, `user experience (UX) design`, `code debugging` using Chrome DevTools and Visual Studio Code
- -   **Link to the project**: [Crush Club Wines UI](https://github.com/JessicaRodriguesFelix/wine-lovers-UI)
+ -   **Link to the project**: [Crush Club Wines UI](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/tree/main/front-end-project)
 ### Back-end Project
  -   Back-end project folder will include "Crush Club - Wine Lovers" application using **Java Spring Boot**, demonstrating ability to create endpoints for performing CRUD operations. 
  -   **Skills Developed**: `Problem-solving`, data schema and endpoint `design and evaluation`, `testing` Postman, and `code debugging` with the IntelliJ debugger.
@@ -30,11 +30,11 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
  ### Deployment Project
  -  Deployment Project folder will contain "Crush Club - Wine Lovers", an extension of the back-end project with added GitHub Actions jobs for automating the build, testing, and deployment pipeline.
  -  **Skills Developed**: `Problem-solving`,`version control`,`quality assurance`,`automation` and `CI/CD`.
- -  **Link to the project**: [Crush Club Wines](https://github.com/JessicaRodriguesFelix/wine-lovers)
+ -  **Link to the project**: [Crush Club Wines](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/tree/main/deployment-project)
 ### Hackathon Project
  -  Hackaton project folder will contain "Coplay", a full-stack project designed as an introduction to the 'Golang' programming language.
  -  **Skills Developed**: `Problem-solving`,`time management`, `task planning`, `documentation`, `testing` Postman, and `code debugging` with the Visual Studio Code.
- -  **Link to the project**: [Coplay](https://github.com/JessicaRodriguesFelix/rest-api-golang-postgres)
+ -  **Link to the project**: [Coplay](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/tree/main/hackaton-project)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact me
@@ -46,6 +46,9 @@ I'd like to express my sincere gratitude to *Cisco Systems* for the opportunity 
 
 A special thank you to my coach, *David Todd*, for your exceptional guidance and support throughout this journey. I hope he continues to guide engineers in advancing their careers.
 
-![72CB97CC-F401-4C4E-BD57-F743A785](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/assets/40796998/38eb6d9e-ce2d-457d-a3b3-22ebc407bf42)
+<p align="center">
+  <img src="https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/assets/40796998/38eb6d9e-ce2d-457d-a3b3-22ebc407bf42" alt="Image Description">
+</p>
+
 
 
