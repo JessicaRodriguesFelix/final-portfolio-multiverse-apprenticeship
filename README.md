@@ -26,7 +26,7 @@ It included a 3-month coding bootcamp focused on HTML5, CSS3, pure Vanilla JavaS
 ### Back-end Project
  -   Back-end project folder will include "Crush Club - Wine Lovers" application using **Java Spring Boot**, demonstrating ability to create endpoints for performing CRUD operations. 
  -   **Skills Developed**: `Problem-solving`, data schema and endpoint `design and evaluation`, `testing` Postman, and `code debugging` with the IntelliJ debugger.
- -   **Link to the project**: [Crush Club Wines](https://github.com/JessicaRodriguesFelix/wine-lovers)
+ -   **Link to the project**: [Crush Club Wines](https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/tree/main/back-end-project)
  ### Deployment Project
  -  Deployment Project folder will contain "Crush Club - Wine Lovers", an extension of the back-end project with added GitHub Actions jobs for automating the build, testing, and deployment pipeline.
  -  **Skills Developed**: `Problem-solving`,`version control`,`quality assurance`,`automation` and `CI/CD`.
