@@ -1,5 +1,5 @@
-## Project #1
-Give a high-level overview of the project purpose
+## Crush Club - Wine Lovers UI 🍷
+A Web Application for Wine Lovers that allows users to add reviews to help bring together a community of wine enthusiasts and help them share their experience and recommendations.
 - What are the users?
 - What job does it form for them?
 - What inspired you to make it?
@@ -7,9 +7,15 @@ Give a high-level overview of the project purpose
 - Include relevant screenshots
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Language: TypeScript (Version: 5.0.2)
+- Build Tool: Vite (Version: 4.3.9)
+- Framework:
+  - React (Version: 18.2.0)
+  - React-DOM (Version: 18.2.0)
+  - React-Router-DOM (Version: 6.14.0)
+  - React-Bootstrap (Version: 2.8.0)
+- CSS Framework:
+  - Bootstrap (Version: 5.3.0)
 
 ## Competencies
 ### JF XX.XX
