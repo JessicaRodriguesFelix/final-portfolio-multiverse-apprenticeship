@@ -9,6 +9,7 @@ A Web Application for Wine Lovers that allows users to add reviews to help bring
 ## Technologies
 - Language: TypeScript (Version: 5.0.2)
 - Build Tool: Vite (Version: 4.3.9)
+- Package manager: NPM (Version: 8.19.2)
 - Framework:
   - React (Version: 18.2.0)
   - React-DOM (Version: 18.2.0)
@@ -16,7 +17,11 @@ A Web Application for Wine Lovers that allows users to add reviews to help bring
   - React-Bootstrap (Version: 2.8.0)
 - CSS Framework:
   - Bootstrap (Version: 5.3.0)
-
+### Other Tools:
+- dotenv (Version: 16.3.1) for handling environment variables.
+- cors (Version: 2.8.5) for handling Cross-Origin Resource Sharing.
+### Linting and Code Quality Tools:
+- ESLint (Version: 8.38.0)
 ## Competencies
 ### JF XX.XX
 - List the full text of the job function first
