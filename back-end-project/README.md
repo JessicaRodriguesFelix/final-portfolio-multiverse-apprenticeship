@@ -7,8 +7,8 @@ A Web Application for Wine Lovers that allows users to add reviews to help bring
 - Include relevant screenshots
 
 ## Technologies
-- Language: Java version 17.
-- Framework: Spring Boot version 3.0.5.
+- Language: Java (Version: 17).
+- Framework: Spring Boot (Version: 3.0.5).
 - Build automation tool: Maven.
 - Database: MongoDB.
 - Lombok library: Used to reduce boilerplate code by generating common methods (e.g., getters, setters, constructors) through annotations.
