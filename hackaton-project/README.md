@@ -1,5 +1,5 @@
-## Project #3
-Give a high-level overview of the project purpose
+## Coplay :video_game:
+Coplay was designed to be an icebreaker to help employees feel comfortable during company meetings. 
 - What are the users?
 - What job does it form for them?
 - What inspired you to make it?
@@ -7,9 +7,13 @@ Give a high-level overview of the project purpose
 - Include relevant screenshots
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Language: Golang (Version: 1.19.3)
+- Framework: Go Fiber (Version: 2.40.1)
+- Database: PostgreSQL (Version: 15.1)
+- Docker (Version: 20.10.21)
+- HTML5 
+- CSS3
+- Vanilla Javascript
 
 ## Competencies
 ### JF XX.XX
