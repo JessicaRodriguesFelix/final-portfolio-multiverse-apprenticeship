@@ -1,5 +1,5 @@
-## Project #3
-Give a high-level overview of the project purpose
+## Crush Club - Wine Lovers 🍷
+A Web Application for Wine Lovers that allows users to add reviews to help bring together a community of wine enthusiasts and help them share their experience and recommendations.
 - What are the users?
 - What job does it form for them?
 - What inspired you to make it?
@@ -7,9 +7,14 @@ Give a high-level overview of the project purpose
 - Include relevant screenshots
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Language: Java (Version: 17).
+- Framework: Spring Boot (Version: 3.0.5).
+- Build automation tool: Maven.
+- Database: MongoDB.
+- Lombok library: Used to reduce boilerplate code by generating common methods (e.g., getters, setters, constructors) through annotations.
+### Deployment Tool
+- Railway CLI.
+- CI/CD: GitHub Actions workflow.
 
 ## Competencies
 ### JF XX.XX
