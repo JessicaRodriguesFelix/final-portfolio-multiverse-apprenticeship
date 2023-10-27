@@ -10,6 +10,3 @@
 [submodule "hackaton-project/Coplay"]
 	path = hackaton-project/Coplay
 	url = https://github.com/JessicaRodriguesFelix/rest-api-golang-postgres
-[submodule "wine-lovers-UI"]
-	path = wine-lovers-UI
-	url = https://github.com/JessicaRodriguesFelix/wine-lovers-UI
