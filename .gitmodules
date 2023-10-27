@@ -4,3 +4,6 @@
 [submodule "back-end-project/wine-lovers"]
 	path = back-end-project/wine-lovers
 	url = https://github.com/JessicaRodriguesFelix/wine-lovers
+[submodule "deployment-project/wine-lovers"]
+	path = deployment-project/wine-lovers
+	url = https://github.com/JessicaRodriguesFelix/wine-lovers
