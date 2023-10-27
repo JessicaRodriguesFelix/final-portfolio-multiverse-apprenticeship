@@ -33,15 +33,15 @@
 ### Linting and Code Quality Tools:
 - ESLint (Version: 8.38.0)
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### Competency Checklist -  Software Engineering
+#### Job Function: 2.3
 
-### JF XX.XX
-- List the full text of the job function first
+- _Can develop effective user interfaces?_
+   - I designed and created the user interface for the Crush Club - Wine Lovers - UI - V.1 project, a React TypeScript application for wine enthusiasts. 
+   - I independently structured the project, developed React Components, managed state, implemented React logic, CSS styling, and and integrated Bootstrap code to enhance the User Experience.
+
+#### Job Function: 3.8
+- _Can encrypt sensitive data via hashing?_
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
