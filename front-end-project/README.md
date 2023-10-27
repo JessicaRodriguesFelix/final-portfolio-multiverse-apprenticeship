@@ -39,10 +39,12 @@
 - _Can develop effective user interfaces?_
    - I designed and created the user interface for the Crush Club - Wine Lovers - UI - V.1 project, a React TypeScript application for wine enthusiasts. 
    - I independently structured the project, developed React Components, managed state, implemented React logic, CSS styling, and and integrated Bootstrap code to enhance the User Experience.
+- _Results:_
+  - This experience showcases my ability to create visually appealing and user-centric interfaces, resulting in a positive impact on user engagement and experience.
 
 #### Job Function: 3.8
 - _Can encrypt sensitive data via hashing?_
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+  - "Manual Registration" feature: Integrated [bcrypt](https://www.npmjs.com/package/bcrypt) to securely hash user passwords during registration.
+  -  Login Page with Google Account Integration: Integrated Google Account Integration for secure login using [passport.js](https://www.passportjs.org/packages/passport-google-oauth20/).
+- _Results:_
+The implementation of bcrypt for password hashing in the registration process and Google Account Integration through passport.js for secure login has significantly enhanced the security of sensitive user data. It ensures that passwords are stored in a highly secure and irreversible format, and allows users to securely log in with their Google accounts.
