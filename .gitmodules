@@ -1,15 +1,6 @@
-[submodule "front-end-project/Crush-Club-Wine-Lovers-UI"]
-	path = front-end-project/Crush-Club-Wine-Lovers-UI
-	url = https://github.com/JessicaRodriguesFelix/wine-lovers-UI
-[submodule "back-end-project/Crush-Club-Wine-Lovers"]
-	path = back-end-project/Crush-Club-Wine-Lovers
-	url = https://github.com/JessicaRodriguesFelix/wine-lovers
-[submodule "deployment-project/Crush-Club-Wine-Lovers"]
-	path = deployment-projec/Crush-Club-Wine-Lovers
-	url = https://github.com/JessicaRodriguesFelix/wine-lovers
-[submodule "hackaton-project/Coplay"]
-	path = hackaton-project/Coplay
-	url = https://github.com/JessicaRodriguesFelix/rest-api-golang-postgres
 [submodule "front-end-project/wine-lovers-UI"]
 	path = front-end-project/wine-lovers-UI
 	url = https://github.com/JessicaRodriguesFelix/wine-lovers-UI
+[submodule "back-end-project/wine-lovers"]
+	path = back-end-project/wine-lovers
+	url = https://github.com/JessicaRodriguesFelix/wine-lovers
