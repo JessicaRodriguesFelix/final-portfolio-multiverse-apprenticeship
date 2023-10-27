@@ -7,3 +7,6 @@
 [submodule "deployment-project/wine-lovers"]
 	path = deployment-project/wine-lovers
 	url = https://github.com/JessicaRodriguesFelix/wine-lovers
+[submodule "hackaton-project/rest-api-golang-postgres"]
+	path = hackaton-project/rest-api-golang-postgres
+	url = https://github.com/JessicaRodriguesFelix/rest-api-golang-postgres
