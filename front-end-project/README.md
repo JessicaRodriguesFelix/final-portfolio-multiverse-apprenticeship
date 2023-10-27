@@ -1,5 +1,8 @@
 ## Crush Club - Wine Lovers UI 🍷
 > A Web Application for Wine Lovers that allows users to add reviews to help bring together a community of wine enthusiasts and help them share their experience and recommendations.
+
+https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticeship/assets/40796998/595dd39c-c2f6-4eb4-b157-5de101e4f4df
+
 #### Users
   - Wine enthusiasts and anyone interested in learning and joining a community of wine lovers.
   - Individuals looking for wine recommendations and reviews.
