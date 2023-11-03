@@ -17,7 +17,6 @@ https://github.com/JessicaRodriguesFelix/final-portfolio-multiverse-apprenticesh
   - **Shopping Cart:** Easily add desired wines to their shopping cart for later purchase.
   - **Search Functionality:** Quickly find their favorite wines using a search by name/year input feature.
   - **Wine Details:** View detailed information for each wine, including winery, location, average rating, and the number of reviews.
-  - Include relevant screenshots
 
 ## Technologies
 - Language: TypeScript (Version: 5.0.2)
