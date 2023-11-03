@@ -25,14 +25,10 @@
 
 ## Competencies
 ### Competency Checklist -  Software Engineering
-#### Job Function: 3.6
+#### Job Function: 1.7
 
-- _Can implement a RESTful API?_
+- _Can follow company, team or client approaches to continuous integration, version and source control?_
   - _Actions:_
-     - I have defined endpoints for retrieving information about wines and saving user reviews, which are key components of a RESTful API.
-     - The endpoints follow the common RESTful conventions:
-          - GET /wines: This endpoint is used to retrieve a list of all wines stored in the MongoDB database. It follows the RESTful convention for retrieving resources.
-          - GET /wines/{id}: This endpoint is used to retrieve information about a specific wine stored in the database, identified by its imdbId. It follows the RESTful convention for retrieving a specific resource by its identifier.
-          - POST /reviews: This endpoint is used to save new reviews to the database for a specific wine, and it follows the RESTful convention for creating or adding a resource
+     - I have implemented a robust CI/CD pipeline for Crush Club - Wine Lovers using GitHub Actions, demonstrating commitment to automation and efficient development processes.
   - _Results:_
-      - The API I created allows the Crush Club - Wine Lovers website to easily find and display information about different wines and lets users share their reviews.
+      - This action ensures that changes to the codebase are consistently integrated, tested, and deployed, minimizing manual errors and ensuring a reliable and stable application.
