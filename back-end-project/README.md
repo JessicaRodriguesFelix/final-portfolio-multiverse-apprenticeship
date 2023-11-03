@@ -8,13 +8,10 @@
   - Connects wine lovers to a vibrant community.
   - Provides a platform to share their wine experiences.
   - Facilitates the discovery of new wines through reviews and recommendations.
-  - Offers a space for wineries to engage with their audience and gather feedback.
+
 #### Key Features:
-  - **Explore Wines:** In the main view users can explore a curated selection of available wines for purchase.
-  - **Shopping Cart:** Easily add desired wines to their shopping cart for later purchase.
-  - **Search Functionality:** Quickly find their favorite wines using a search by name/year input feature.
-  - **Wine Details:** View detailed information for each wine, including winery, location, average rating, and the number of reviews.
-  - Include relevant screenshots
+  - Post Reviews: The backend allows users to submit reviews for specific wines. When users post a review, the backend stores the review data and associates it with the respective wine in the database.
+  - Get Wines: Users can retrieve information about available wines from the backend. The backend handles requests to provide users with a curated selection of wines for exploration, which is a central feature of the application.
 
 ## Technologies
 - Language: Java (Version: 17).
@@ -22,18 +19,20 @@
 - Build automation tool: Maven.
 - Database: MongoDB.
 - Lombok library: Used to reduce boilerplate code by generating common methods (e.g., getters, setters, constructors) through annotations.
+### Deployment Tool
+- Railway CLI.
+- CI/CD: GitHub Actions workflow.
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### Competency Checklist -  Software Engineering
+#### Job Function: 3.6
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+- _Can implement a RESTful API?_
+  - _Actions:_
+     - I have defined endpoints for retrieving information about wines and saving user reviews, which are key components of a RESTful API.
+     - The endpoints follow the common RESTful conventions:
+          - GET /wines: This endpoint is used to retrieve a list of all wines stored in the MongoDB database. It follows the RESTful convention for retrieving resources.
+          - GET /wines/{id}: This endpoint is used to retrieve information about a specific wine stored in the database, identified by its imdbId. It follows the RESTful convention for retrieving a specific resource by its identifier.
+          - POST /reviews: This endpoint is used to save new reviews to the database for a specific wine, and it follows the RESTful convention for creating or adding a resource
+  - _Results:_
+      - The API I created allows the Crush Club - Wine Lovers website to easily find and display information about different wines and lets users share their reviews.
