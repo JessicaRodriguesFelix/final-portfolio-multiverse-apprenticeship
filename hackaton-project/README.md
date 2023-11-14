@@ -28,7 +28,7 @@ Coplay was designed to be an icebreaker to help employees feel comfortable durin
     - _Actions:_
        -  I've demonstrated a comprehensive understanding of project roles and responsibilities, particularly through my involvement in the hackathon project. Here are the key actions:
             - Managed tickets and timelines during the hackathon project, showcasing proficiency in project management.
-            - Described the responsibilities of a front-end focused developer, involving the design, implementation, documentation, and testing of interfaces.
+            - Described the responsibilities of a front-end focused developer, involving the design, implementation, documentation, and testing manually interfaces.
             - Gained experience in the backend by setting up basic structures, expanding them, and integrating both frontend and backend components.
             - Led the hackathon project, involving tasks such as defining and refining, creating repositories, and effectively managing time and completion.
     - _Results:_
