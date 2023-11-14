@@ -22,16 +22,15 @@ Coplay was designed to be an icebreaker to help employees feel comfortable durin
 - Vanilla Javascript
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### Competency Checklist -  Software Engineering
+#### Job Function: 1.3
+- _Can describe all the roles and responsibilities of the project life cycle within their organization and their role?_
+    - _Actions:_
+       -  I've demonstrated a comprehensive understanding of project roles and responsibilities, particularly through my involvement in the hackathon project. Here are the key actions:
+            - Managed tickets and timelines during the hackathon project, showcasing proficiency in project management.
+            - Described the responsibilities of a front-end focused developer, involving the design, implementation, documentation, and testing of interfaces.
+            - Gained experience in the backend by setting up basic structures, expanding them, and integrating both frontend and backend components.
+            - Led the hackathon project, involving tasks such as defining and refining, creating repositories, and effectively managing time and completion.
+    - _Results:_
+       - This experience helps me understand and contribute effectively to projects, whether it's working on the frontend, backend, or in a leadership role.
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
